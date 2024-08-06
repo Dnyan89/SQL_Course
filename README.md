@@ -7,7 +7,7 @@ Please check SQL queries here: [project_sql folder](/project_sql/)
 # Background
 I started this project to better understand the data analyst job market. I wanted to find out which skills are most valuable and in demand, so I could focus my job search more effectively.
 
-The data used for this analysis comes from Luke Barousse’s [SQL Course](https://lukebarousse.com/sql). It includes information on job titles, salaries, locations, and required skills.
+The data used for this analysis comes from Luke Barousse’s SQL Course. It includes information on job titles, salaries, locations, and required skills.
 
 ## The questions I tried to answer through the SQL queries were as follows:
 1. What are the highest-paying jobs for Data Analysts?
